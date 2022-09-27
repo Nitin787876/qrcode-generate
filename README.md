@@ -1,1 +1,1 @@
-This Code For automated with the python and mysql.
+This Code an automated with the python and mysql.
